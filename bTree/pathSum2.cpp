@@ -1,7 +1,7 @@
 /**
 
-Problem : Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum.
-LC 113 https://leetcode.com/problems/path-sum-ii/description/
+* Problem : Given a binary tree and a sum, find all root-to-leaf paths where each path's sum equals the given sum.
+* LC 113 https://leetcode.com/problems/path-sum-ii/description/
 
 
  * Definition for a binary tree node.
