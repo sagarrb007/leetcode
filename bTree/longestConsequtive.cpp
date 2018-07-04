@@ -17,7 +17,6 @@ public:
         
         if(!root) return 0 ;
         if(!root->left && !root->right) {
-            //len = 1;
             return 1;
         }
         
@@ -33,7 +32,6 @@ public:
         }
         else return 1;
         len = max(len,max(left,right));
-        //cout << left << right << root->val << len << endl;
         return max(left,right);
         
     }
